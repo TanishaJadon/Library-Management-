@@ -1,2 +1,25 @@
 # Library-Management-
-Done.
+LIBRARY-MANAGEMENT-SYSTEM
+THIS IS A LIBRARY MANAGEMENT SYSTEM WHICH IS DESIGNED TO EFFICIENTLY MANAGE BOOKS, BORROWERS, AND TRANSACTIONS USING JAVA'S OBJECT-ORIENTED PROGRAMMING (OOP) PRINCIPLES. image image image image image image image image
+
+About
+THIS IS A LIBRARY MANAGEMENT SYSTEM WHICH IS DESIGNED TO EFFICIENTLY MANAGE BOOKS, BORROWERS, AND TRANSACTIONS USING JAVA'S OBJECT-ORIENTED PROGRAMMING (OOP) PRINCIPLES.
+
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 1 fork
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Languages
+Java
+100.0%
+Footer
